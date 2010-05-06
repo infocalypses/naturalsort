@@ -1,0 +1,22 @@
+== 1.1.1 / 2010-27-04
+* Fix some problem with sorting names with zeroes in second part i.e user0001
+
+== 1.1.0 / 2008-01-08
+* Improve documentation to get better google results
+* Remove alias methods: 
+** sort_natural
+** sort_alpha
+** alpha_sort
+** sort_alphabetical
+** alphabetical_sort
+** sort_alphanum
+** alphanum_sort
+
+== 1.0.1 / 2007-12-18
+
+* Fix problem using as a static method
+* Refactoring code
+
+== 1.0.0 / 2007-12-14
+
+* Project creation
